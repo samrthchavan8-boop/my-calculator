@@ -1,0 +1,13 @@
+{
+  "background_color": "#261414",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Simple Calculator",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "calculator",
+  "start_url": "/",
+  "theme_color": "#791f1f",
+  "description": "A web-based calculator app with dark mode.",
+  "id": "/my-calculator/"
+}
